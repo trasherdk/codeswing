@@ -413,7 +413,7 @@
   },
   "dependencies": {
     "@vue/component-compiler": "^4.2.3",
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
     "case": "^1.6.3",
     "dayjs": "^1.9.8",
     "debounce": "^1.2.0",
