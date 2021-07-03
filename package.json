@@ -426,7 +426,7 @@
     "os-browserify": "^0.3.0",
     "path-browserify": "^1.0.1",
     "postcss": "^8.2.6",
-    "pug": "^3.0.0",
+    "pug": "^3.0.1",
     "sass": "^1.32.7",
     "stream-browserify": "^3.0.0",
     "svelte": "^3.32.3",
